@@ -9,7 +9,10 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 
 # Load the data
-df = pd.read_csv(r"C:\Users\tk452\Downloads\archive (1)\flipkart_com-ecommerce_sample.csv", encoding='utf-8')
+uploaded = st.file_uploader("Upload CSV", type="csv")
+if not uploaded:
+    st.stop()
+df = pd.read_csv(uploaded, encoding='utf-8')
 print("Data loaded successfully")
 print(df.head())
 print(df.info())
