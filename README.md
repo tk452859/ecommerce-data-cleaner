@@ -1,7 +1,8 @@
 # Flipkart Product Data Cleaner & Analyzer
 
 ## Overview
-Python script that automates cleaning and analysis of messy e-commerce product data (20,000+ records). Turns raw CSV into clean data + visualizations + actionable insights.Live link
+Python script that automates cleaning and analysis of messy e-commerce product data (20,000+ records). Turns raw CSV into clean data + visualizations + actionable insights.Live link: 
+
 https://ecommerce-data-cleaner-g7gytzn7v3xfj4s7ggejap.streamlit.app/
 
 ## Problem
