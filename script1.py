@@ -2,6 +2,8 @@
 import matplotlib
 # Press Ctrl+F5 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+import streamlit as st
+
 
 # Cache results so you don't scrape same page twice
 import pandas as pd
