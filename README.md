@@ -18,6 +18,11 @@ Automated pipeline that:
 4. Standardizes brand names
 5. Generates charts & reports
 
+
+<img width="1882" height="843" alt="Screenshot 2026-05-12 174307" src="https://github.com/user-attachments/assets/7048a228-da8b-4e65-8ae7-fb38e1033926" />
+
+<img width="1876" height="791" alt="image" src="https://github.com/user-attachments/assets/a991a367-afca-4e1c-b449-a3c9687477aa" />
+
 ## Results
 - **99.6%** of products are discounted
 - **Average discount: 40.5%**
@@ -36,6 +41,3 @@ Automated pipeline that:
 python script1.py
 
 
-<img width="1882" height="843" alt="Screenshot 2026-05-12 174307" src="https://github.com/user-attachments/assets/7048a228-da8b-4e65-8ae7-fb38e1033926" />
-
-<img width="1876" height="791" alt="image" src="https://github.com/user-attachments/assets/a991a367-afca-4e1c-b449-a3c9687477aa" />
