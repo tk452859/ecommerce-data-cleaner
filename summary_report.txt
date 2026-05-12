@@ -1,0 +1,12 @@
+Total Products: 20000
+Products with Discount: 19922
+Average Discount %: 40.52
+Average Rating: 3.81
+Top Brand by Count: Allure Auto
+Most Common Category: Necklaces
+
+==================================================
+RECOMMENDATIONS:
+1. Focus marketing on the top category
+2. Review products with highest discounts
+3. Monitor low-rated brands
